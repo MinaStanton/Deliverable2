@@ -1,0 +1,10 @@
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.exe
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.deps.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.runtimeconfig.dev.json
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\bin\Debug\netcoreapp3.1\Deliverable2.pdb
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.AssemblyInfo.cs
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.dll
+C:\Users\stant\Documents\GC_CSHARP_BOOTCAMP\Deliverable2\Deliverable2\obj\Debug\netcoreapp3.1\Deliverable2.pdb
